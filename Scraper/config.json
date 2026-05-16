@@ -1,0 +1,17 @@
+{
+  "Pazar3": {
+    "selectors": {
+        "AdSelector": ".span-col-title",
+        "TitleSelector": ".Link_vis",
+        "PriceSelector": ".list-price",
+        "TagsSelecor": ".nobold",
+        "TimeAddedSelector": ".ci-text-right"
+
+
+                 },
+      "startingURL": "https://www.pazar3.mk/oglasi/vozila/avtomobili/prodazba?Page=",
+      "pages": 10,
+             }
+
+
+}
